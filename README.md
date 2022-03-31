@@ -1,1 +1,1 @@
-# seatingcapacity
+# Sample data
