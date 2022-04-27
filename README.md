@@ -1,1 +1,1 @@
-# Sample data
+# Seating Capacity Tool
